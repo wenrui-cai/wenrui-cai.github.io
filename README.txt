@@ -1,6 +1,7 @@
-This is my portfolio
+# GitHub Pages Portfolio
 
-Contact: Wenrui Cai
-=======================================================================
-Web: https://wenrui-cai.github.io/
-Email: wenrui1996@hotmail.com
+Hello, my name is Wenrui Cai (you can call meWen) and welcome to my portfolio/personal website! 
+This is the website: https://wenrui-cai.github.io/
+E-mail: wenrui1996@hotmail.com
+
+Please feel free to reach me at vincentjosephtrost@gmail.com.  
