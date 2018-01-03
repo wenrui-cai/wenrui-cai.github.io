@@ -4,4 +4,4 @@ Hello, my name is Wenrui Cai (you can call meWen) and welcome to my portfolio/pe
 This is the website: https://wenrui-cai.github.io/
 E-mail: wenrui1996@hotmail.com
 
-Please feel free to reach me at vincentjosephtrost@gmail.com.  
+Please feel free to reach me at wenrui1996@hotmail.com.  
